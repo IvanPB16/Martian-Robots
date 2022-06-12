@@ -14,6 +14,14 @@ def deps do
   ]
 end
 ```
+## Run
+```elixir
+$ iex -S mix
+```
+## Run
+```elixir
+iex(1)> Robot.init
+```
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
