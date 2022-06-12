@@ -65,5 +65,7 @@ LLFFFLFLFL
 2 3 S
 ```
 
-RUN FUNCTION 
+### Run Function 
+```
 node index.js
+```
