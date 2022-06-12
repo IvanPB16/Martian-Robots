@@ -18,7 +18,6 @@ end
 ```elixir
 $ iex -S mix
 ```
-## Run
 ```elixir
 iex(1)> Robot.init
 ```
